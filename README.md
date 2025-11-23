@@ -1,7 +1,7 @@
 # Boids
 ![WhatsApp Image 2025-11-20 at 12 23 32_cf089382](https://github.com/user-attachments/assets/125af9ea-c863-44e6-9788-7bbd6b0bab5e)
 
-Here's a showcase of the Boid system
+
 
 https://github.com/user-attachments/assets/78df9145-e68c-440d-9219-842432337c48
 
