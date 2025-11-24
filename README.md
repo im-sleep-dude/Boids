@@ -9,4 +9,4 @@ https://github.com/user-attachments/assets/78df9145-e68c-440d-9219-842432337c48
 
 https://github.com/user-attachments/assets/00f91cbe-e4df-4939-b03b-db6b6f52605c
 
-I realized that the Boid system depends heavily on math, and this is my first time doing something like this ( I'm bad at math but i tried )
+Reference : https://www.youtube.com/watch?v=bqtqltqcQhw&t=1s
